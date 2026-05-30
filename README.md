@@ -14,5 +14,5 @@ A smart, fast, and efficient Telegram bot built with Python that allows users to
 - **Framework:** Aiogram / Telebot (Telegram Bot API)
 - **API:** Wikipedia AP
 
-**pip install wikipedia**
-**pip install aiogram**
+- **pip install wikipedia**
+- **pip install aiogram**
